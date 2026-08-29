@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:maroofsangi147@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/maroof-ahmed"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maroof-ahmed-1b1b43168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/maroofsangi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -121,5 +121,5 @@
 
 <p align="center">
   <a href="mailto:maroofsangi147@gmail.com"><img src="https://img.shields.io/badge/Email-maroofsangi147%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/maroof-ahmed"><img src="https://img.shields.io/badge/LinkedIn-Maroof%20Ahmed-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/maroof-ahmed-1b1b43168/"><img src="https://img.shields.io/badge/LinkedIn-Maroof%20Ahmed-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>

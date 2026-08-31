@@ -90,10 +90,12 @@
 | **[Car Rental Management System](https://github.com/maroofsangi/myproject)** | Web-based system to manage car listings, bookings, and rental records with a relational database backend. | Flask, PostgreSQL |
 | **[GPA Prediction Dashboard](https://github.com/maroofsangi/wheels)** | Prediction model that estimates student GPA from academic input data, visualized on an interactive dashboard. | Python, Dashboard |
 
-**Other repositories**
-- **[myproject](https://github.com/maroofsangi/myproject)** — Car rental management system built with Flask and PostgreSQL, covering vehicle listings, bookings, and rental history.
-- **[myportfolio](https://github.com/maroofsangi/myportfolio)** — Personal portfolio website showcasing projects, skills, and experience.
-- **[maroofsangi.github.io](https://github.com/maroofsangi/maroofsangi.github.io)** — Live GitHub Pages site hosting my personal portfolio.
+### 📦 All Repositories
+_Auto-synced every few hours from my public GitHub repos — new repos show up here automatically with their description._
+
+<!-- AUTO-PROJECTS:START -->
+_No additional public repositories yet._
+<!-- AUTO-PROJECTS:END -->
 
 ---
 

@@ -20,6 +20,8 @@ EXCLUDE = {
     "plant_disease_detection",     # already in Featured Projects
     "myproject",                   # already in Featured Projects
     "wheels",                      # already in Featured Projects
+    "netops-toolkit",              # already in Featured Projects
+    "expenseflow",                 # already in Featured Projects
 }
 
 START = "<!-- AUTO-PROJECTS:START -->"

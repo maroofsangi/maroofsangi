@@ -85,6 +85,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| **[JobTrail](https://github.com/maroofsangi/jobtrail)** | Self-hosted Kanban board for tracking job applications — drag between Wishlist/Applied/Interviewing/Offer/Rejected, with live response-rate and interview-rate stats. | Python, Flask, SQLAlchemy, Docker |
 | **[PulseWatch](https://github.com/maroofsangi/pulsewatch)** | Self-hosted website & API uptime monitor — scheduled checks, uptime %, incident tracking, and webhook alerts. Flask + APScheduler + SQLAlchemy. | Python, Flask, SQLAlchemy, Docker |
 | **[ExpenseFlow](https://github.com/maroofsangi/expenseflow)** | A clean, private expense tracker that runs entirely in the browser — no sign-up, no server, no database. Category breakdown chart and CSV export. | JavaScript, HTML/CSS |
 | **[NetOps Toolkit](https://github.com/maroofsangi/netops-toolkit)** | Multi-vendor network automation demo — Cisco config parser, Flask REST API, live inventory dashboard, plus Terraform/Ansible examples. | Python, Flask, Terraform, Ansible |

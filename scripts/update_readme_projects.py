@@ -23,6 +23,7 @@ EXCLUDE = {
     "netops-toolkit",              # already in Featured Projects
     "expenseflow",                 # already in Featured Projects
     "pulsewatch",                  # already in Featured Projects
+    "jobtrail",                    # already in Featured Projects
 }
 
 START = "<!-- AUTO-PROJECTS:START -->"

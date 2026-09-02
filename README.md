@@ -85,6 +85,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| **[PulseWatch](https://github.com/maroofsangi/pulsewatch)** | Self-hosted website & API uptime monitor — scheduled checks, uptime %, incident tracking, and webhook alerts. Flask + APScheduler + SQLAlchemy. | Python, Flask, SQLAlchemy, Docker |
 | **[ExpenseFlow](https://github.com/maroofsangi/expenseflow)** | A clean, private expense tracker that runs entirely in the browser — no sign-up, no server, no database. Category breakdown chart and CSV export. | JavaScript, HTML/CSS |
 | **[NetOps Toolkit](https://github.com/maroofsangi/netops-toolkit)** | Multi-vendor network automation demo — Cisco config parser, Flask REST API, live inventory dashboard, plus Terraform/Ansible examples. | Python, Flask, Terraform, Ansible |
 | **[Enterprise Network Automation Platform](https://github.com/maroofsangi/Ansible_Translation_Layer)** | Automation platform for enterprise network operations — config parsing, REST API integrations, and Terraform-driven provisioning across multi-vendor devices. | Python, REST APIs, Terraform |
